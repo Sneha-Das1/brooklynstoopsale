@@ -140,6 +140,11 @@ body {
 
 }
 
+.circleSisters {
+ position: absolute;
+ left: -9rem;
+}
+
 .lilchelseacircle {
 	background: #faeb9c;
 	width: 45rem;
@@ -156,6 +161,16 @@ body {
 	border-radius: 50%;
 }
 
+.lilchelseaQuote {
+	color: white;
+	margin-top: 9rem;
+	margin-left: 19rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	font-size: 1.5em;
+	width: 100%;
+}
 
 
 
