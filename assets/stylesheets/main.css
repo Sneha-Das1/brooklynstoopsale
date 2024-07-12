@@ -61,7 +61,7 @@ table {
             box-sizing: border-box;
   }
 
-html {
+  html {
     font-size: 62.5%;
 }
 
@@ -232,5 +232,11 @@ h1:hover {
 }
 
 
+iframe {
+	float: right;
+	width: 30%;
+	margin-right: 5rem;
+	margin-bottom: 5rem;
+}
 
 
