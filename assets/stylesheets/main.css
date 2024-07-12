@@ -69,7 +69,6 @@ html {
 
 body {
 	background: #d68b90;
-	overflow: hidden;
 }
 
 /***********************************************************************
@@ -80,9 +79,9 @@ body {
 ***********************************************************************/
 
 .firstBlock {
-	margin-top: 2rem;
 	width: 100%;
 	float: left;
+	overflow: hidden;
 }
 
 .logotitle {
@@ -94,6 +93,7 @@ body {
 	font-size: 13em;
 	width: 60%;
 	margin-left: 1.333rem;
+	margin-top: 1rem;
 
 }
 
@@ -111,14 +111,53 @@ body {
 	width: 15rem;
 	height: 15rem;
 	border-radius: 50%;
-	margin-left: 92%;
+	margin-left: 94%;
 	margin-top: -10rem;
 	border: 2px solid rgb(219, 211, 211);
 }
 
 .upcycle {
+	margin-top: 0;
     clear: both;
+	color: rgb(255, 204, 0);
+	text-align: center;
+	font-size: 14em;
+	font-family: "Londrina Solid", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	letter-spacing: 0.1em;
   }
+
+/*********************************************************************
+*                                                                      *
+*                     THE MIDDLE SECTION                               *
+*                                                                      *
+*                                                                      *
+***********************************************************************/
+.middleBlock {
+	clear: both;
+	float: left;
+
+}
+
+.lilchelseacircle {
+	background: #faeb9c;
+	width: 45rem;
+	height: 45rem;
+	padding-top: 5rem;
+	border-radius: 50%;
+}
+
+.thelogo {
+	display: block;
+	margin: 0 auto;
+	width: 35rem;
+	height: 35rem;
+	border-radius: 50%;
+}
+
+
+
 
 
 
