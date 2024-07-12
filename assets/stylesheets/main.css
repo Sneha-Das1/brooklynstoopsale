@@ -249,6 +249,38 @@ iframe {
 	display: block;
 	width: 30%;
 	margin: 0 auto;
-	
+	clear: both;
 }
+
+.radioStation {
+	float: left;
+	margin-top: 8rem;
+	margin-bottom: 3rem;
+	margin-left: 5rem;
+	background: yellow;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 5rem;
+	padding: 1rem;
+	border-radius: 50%;
+	width: 15%;
+	height: 15%;
+	color: rgb(216, 203, 192);
+}
+
+.stopPlaying {
+	float: right;
+	margin-right: 5rem;
+	margin-top: 8rem;
+	margin-bottom: 3rem;
+	background: purple;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 5rem;
+	padding: 1rem;
+	border-radius: 50%;
+	width: 15%;
+	height: 15%;
+	color: rgb(255, 221, 0);
+}
+
+
 
